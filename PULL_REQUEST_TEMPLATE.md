@@ -6,4 +6,4 @@ What is the acceptance criteria for the proposed solution ?
 
 -[]PR Approved
 -[]All checks pass
--[]manual tests approved
+-[]manual tests approved and test screenshots attached.
